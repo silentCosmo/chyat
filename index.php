@@ -83,7 +83,7 @@
 
             if (tcCheckbox.checked) {
                 // Perform the redirection logic here
-                window.location.href = 'hello.php';
+                window.location.href = 'chyat.php';
             } else {
                 // Show a popup or provide a message indicating that T&C must be agreed
                 alert('Please agree to the Terms and Conditions.');
